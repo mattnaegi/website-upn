@@ -1,0 +1,25 @@
+{{ define "main" }} {{ $categoryTitle := .Title }} {{ $categoryDescription := ' ' }} 
+{{ if (eq .Data.Term "about") }} {{ $categoryTitle = i18n "abouttitle" }} 
+{{ $categoryDescription = i18n "aboutdescription" | default "find out about me and this website" }}
+{{ else if (eq .Data.Term "works")}} {{ $categoryTitle = i18n "workstitle" }} {{ $categoryDescription = i18n "worksdescription" | default "some works i have been a part of" }}
+{{ else if (eq .Data.Term "essays")}} {{ $categoryTitle = i18n "essaystitle" }} {{ $categoryDescription = i18n "essaysdescription" | default "to connect my practice to theory i like to read texts, listen to different approaches and discuss topics _ sometimes i write essays – here are a few" }} 
+{{ end }}
+<main class="article-list">
+    <header>
+        {{ if (eq .Data.Singular "author")}} {{ i18n "written_by" | default "Written by"}} {{ else if (eq .Data.Singular "translator")}} {{ i18n "translated_by" | default "Translated by"}} {{ else if (eq .Data.Singular "tag")}} {{ i18n "theme" | default "Theme"}}{{ end }}
+        <h1 class="entry-title">{{ $categoryTitle | default .Title }}</h1>
+        {{ if not (eq $categoryDescription ' ') }}
+        <p class="summary">{{$categoryDescription}}
+        </p>
+        {{ end }}
+    </header>
+    <section id="list" class="grid">
+        {{ $allposts := .Pages }}
+        {{ $notunlisted := where .RegularPages ".Params.unlisted" "!=" "true" }} 
+        {{ $posts := $allposts | intersect $notunlisted }}
+        {{ $paginator := .Paginate $posts }}
+        {{ range $paginator.Pages }} {{ partial "article-list/default" . }} {{ end }}
+    </section>
+    {{ if gt $paginator.TotalPages 1}} {{ partial "pagination" . }} {{ end }}
+</main>
+{{ end }}

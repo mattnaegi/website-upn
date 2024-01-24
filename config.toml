@@ -1,0 +1,115 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Ursulina Plouda Naegeli"
+
+buildFuture = true
+buildDrafts = false
+paginate = 12
+
+DefaultContentLanguage = "en"
+pluralizelisttitles = "false"
+
+refLinksErrorLevel = "WARNING"
+refLinksNotFoundURL = "/"
+
+timeout = 60000
+
+rssLimit = 3
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser.attribute]
+block = true
+
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'onesenterprise'
+    tabWidth = 4
+
+
+enableInlineShortcodes = true
+
+[permalinks]
+	posts = '/:slugorfilename/'
+  categories = '/:slug/'
+
+[params]
+	author = "Ursulina Plouda Naegeli"
+  description = "Beratung und Coaching"
+
+[menu]
+[[menu.main]]
+  identifier = "passen-wir"
+  name = "Wo du (an)stehst"
+  url = "/passen-wir/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "angebot"
+  name = "Was ich anbiete"
+  url = "/angebot/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "ueber"
+  name = "Wer ich bin"
+  url = "/ueber/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "motivation"
+  name = "Was mich motiviert"
+  url = "/motivation/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "testimonials"
+  name = "Was andere sagen"
+  url = "/testimonials/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "kontakt"
+  name = "Kontakt"
+  url = "/kontakt/"
+  weight = 6
+
+
+defaultContentLanguage = 'en'
+[languages]
+	[languages.en]
+    languageName = 'English'
+	  weight = 1
+
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+  translator = "translators"
+  lang = "languages"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'tags'
+  weight = 100
+  
+

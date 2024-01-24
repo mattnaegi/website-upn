@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+Pillow = ">=3.3.1"
+numpy = ">=1.9.0"
+
+
+[dev-packages]
+
+pytest = "*"
+twine = "*"
+
+
+[requires]
+
+python_version = "3.6"

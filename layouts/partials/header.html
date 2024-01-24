@@ -1,0 +1,9 @@
+<header class="site-header">
+  <h1><a id="top" href="{{ .Site.BaseURL }}">{{ site.Title }}</a></h1>
+  <div class="subtitle">
+     <p>{{i18n "sitesubtitle" | default .Site.Params.description}}      
+     </p>
+  </div>
+  {{ partial "nav" . }}
+ 
+</header>
