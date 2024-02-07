@@ -1,21 +1,22 @@
 ---
-title: "Wer ich bin"
+title: "Wer ich bin "
 date: 2024-01-10
 summary: " "
 slug: "ueber"
 lang: "en"
 authors: []
 categories: []
-tags: ["test"]
-featured_image: "me.jpg"
+tags: []
+featured_image:
 draft: false
 ---
 
-{{% figure src="img_ueber.jpg" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
+{{% figure src="ueber.png" %}} Mein Porträtfoto {{% /figure %}}  
+
 <br>
 
-**inhalt**  
-- [My Story](#my-story)
+**Inhalt**  
+- [My Story](#my-story)  
 - [Mein Leben/meine Ausbildungen](#mein-leben--meine-ausbildungen)
 
 
@@ -29,9 +30,9 @@ Ein Führungs-Coaching im Jahr 2003 – damals bereits auf der Grundlage des Hum
 
 Seit 2016 bin ich zertifizierte Human Design Persönlichkeits- und Partnerschaftsberaterin mit Zusatzdiplomen in Kinderanalyse, Gesundheit und Psychologie und holistische Beraterin und seit 2021 zertifizierte BG5TM Career & Business Consultant. 
 Das Beratungs-Tool aus Human Design System- und BG5TM beinhalten aus meiner Sicht vor allem drei grosse «Schätze»: 
-1.	Die persönlichen Erfolgsschlüssel, welche aufzeigen, wer ich bin und wie es für mich am gesündesten ist, Entscheidungen zu treffen.
-2.	Die Möglichkeit, __verborgene Beziehungs-Dynamiken__ in Partnerschaften und Gruppen (z.B. in der Familie und in Teams) __sichtbar__ zu machen. Dort, wo oftmals Konflikte entstehen, die das Zusammensein und Arbeiten unnötig erschweren. 
-3.	Die Möglichkeit, jede Person mit individueller und holistischer Sichtweise zu coachen inklusive Einbezug von persönlichen, körperlichen und mentalen Gesundheits-Themen.
+> 1. Die persönlichen Erfolgsschlüssel, welche aufzeigen, wer ich bin und wie es für mich am gesündesten ist, Entscheidungen zu treffen.  <br>
+> 2. Die Möglichkeit, __verborgene Beziehungs-Dynamiken__ in Partnerschaften und Gruppen (z.B. in der Familie und in Teams) __sichtbar__ zu machen. Dort, wo oftmals Konflikte entstehen, die das Zusammensein und Arbeiten unnötig erschweren.  <br>
+> 3. Die Möglichkeit, jede Person mit individueller und holistischer Sichtweise zu coachen inklusive Einbezug von persönlichen, körperlichen und mentalen Gesundheits-Themen.
 
 ***Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, dein Leben, Arbeiten und Führen zu vereinfachen und verbessern***  
 

@@ -1,5 +1,5 @@
 ---
-title: "Was mich motiviert"
+title: "Was mich motiviert "
 date: 2023-05-25
 summary: " "
 slug: "motivation"
@@ -7,15 +7,14 @@ lang: "en"
 authors: []
 categories: []
 tags: []
-featured_image: "factory-workers.jpeg"
+featured_image:
 draft: false
 ---
 
-{{% figure src="img_ueber.jpg" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
-<br>
+{{% figure src="img_motivation.png" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}}  
 
 
-> Habe Geduld in allen Dingen, vor allem aber mit dir selbst. *~ Franz von Sales*
+> Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> *~ Franz von Sales*
 
 Das A und O ist,  
 DICH selbst zu sein – und zu wissen, wie DU korrekte und gesunde Entscheide fürs eigene Leben triffst.  <br>  
@@ -36,7 +35,7 @@ Sehr gerne arbeite ich mit dem Flip-Chart, um Gedanken, Gefühle und Situationen
 
 <br>
 
-## Das A und O ist, bewusst in Beziehung zu sein!  
+### Das A und O ist, bewusst in Beziehung zu sein!  
 
 **In Beziehung sein mit dir:**  
 Als Human Design Professional mit Zusatzdiplomen in Gesundheit und Psychologie werde ich dich zu mehr Sicherheit bezüglich deiner Entscheide im eigenen Leben und zu einem verbesserten mentalen und körperlichen Wohlbefinden führen. Aufgrund deiner Geburtsdaten werde ich– individuell auf dich abgestimmt – deine ganz persönlichen Erfolgsschlüssel während des Coachings einbauen.  
@@ -53,10 +52,7 @@ Als BG5® Career & Business Consultant werde ich dir aufgrund der Geburtsdaten a
 
 <br>
 
-Der Coaching-Erfolg hängt stark von deiner Mitarbeit während und nach den Coachings ab: 
-•	Bist du bereit, mir die Geburtsdaten von dir und/oder deiner Teams mitzuteilen? 
-•	Bist du bereit, in deinen persönlichen Veränderungsprozess einzusteigen und mit deinen persönlichen Erfolgsschlüsseln zu experimentieren?
-•	Bist du als Führungsperson bereit für meine professionelle Unterstützung im Executive Coaching, falls gewünscht mit Teamanalyse und -entwicklung?
+
 
 
 

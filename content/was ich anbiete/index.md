@@ -1,5 +1,5 @@
 ---
-title: "Was ich anbiete"
+title: "Was ich anbiete "
 date: 2024-01-10
 summary: " "
 slug: "angebot"
@@ -14,7 +14,7 @@ draft: false
 {{% figure src="img_angebot.jpeg" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
 <br>
 
-**inhalt**  
+**Inhalt**  
 - [Meine Coachings sind anders...](#meine-coachings-sind-anders)
 - [Für wen?](#für-wen)
 - [Mit welchen Herausforderungen?](#mit-welchen-herausforderungen)
@@ -76,4 +76,10 @@ Abhängig von deinen Fragestellungen und deinen Wünschen, integriere ich - basi
 - Arbeit mit Gedanken <br>
 
 - Arbeiten am Flip-Chart: Gedanken, Gefühle und Situationen sichtbar machen und Zusammenhänge visuell darstellen und strukturieren <br>
+
+
+Der Coaching-Erfolg hängt stark von deiner Mitarbeit während und nach den Coachings ab: 
+•	Bist du bereit, mir die Geburtsdaten von dir und/oder deiner Teams mitzuteilen? 
+•	Bist du bereit, in deinen persönlichen Veränderungsprozess einzusteigen und mit deinen persönlichen Erfolgsschlüsseln zu experimentieren?
+•	Bist du als Führungsperson bereit für meine professionelle Unterstützung im Executive Coaching, falls gewünscht mit Teamanalyse und -entwicklung?
 

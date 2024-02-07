@@ -43,12 +43,14 @@
     --pad-xlarge: 2rem;
     --pad-section: 3rem;
     --font-family: "Open Sans", Helvetica, sans-serif;
+    --font-family-body: "Domine", serif;
     --font-xlarge: 2.5rem;
     --font-large: 2rem;
     --font-medium: 1.4rem;
+    --font-highlight: 1.2rem;
     --font-body: 1rem;
     --font-small: 0.7rem;
-    --max-img-width: 1040px;
+    --max-img-width: 100%;
     --max-content-width: 50rem;
     --content-width: 75%;
     @include media( tablet) {
@@ -62,11 +64,11 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: auto;
+    margin: 0;
 }
 
 html {
-    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
 }
 
@@ -74,24 +76,33 @@ body {
     background: var(--color-bg);
     color: var(--color-primary);
     padding: var(--pad-large);
-    text-align: left;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: normal;
+    font-family: var(--font-family-body);
 }
 
 h1 {
     font-size: var(--font-xlarge);
+    font-family: var(--font-family);
     line-height: 1.0;
     text-indent: -.15rem;
     text-align: left;
 }
+
+h2 {
+    font-size: var(--font-large);
+    font-family: var(--font-family);
+}
+h3 {
+    font-size: var(--font-medium);
+    font-family: var(--font-family);
+}
+h4 {
+    font-size: var(--font-highlight);
+    font-family: var(--font-family);
+}
+h5,
+h6,
+
+
 
 p {
     line-height: 1.4;
@@ -146,13 +157,11 @@ footer {
 
 .site-header {
     h1 {
-        font-family: "Open Sans", Helvetica, sans-serif;
         font-size: 32px;
         font-weight: 700;
         text-align: center;
     }
     p {
-        font-family: "Open Sans", Helvetica, sans-serif;
         font-size: 18px;
         font-weight: 600;
         text-align: center;
@@ -262,40 +271,40 @@ a:hover {
 CATEGORY COLORS
 -----------*/
 
-[data-nav="passen-wir"],
+[data-nav="wo-du-anstehst"],
 li.passen-wir .category,
 #passen-wir header h1 {
-    color: var(--color-one);
+    color: var(--color-two);
 }
 
-[data-nav="angebot"],
+[data-nav="was-ich-anbiete"],
 li.angebot .category,
 #angebot header h1 {
-    color: var(--color-two);
+    color: var(--color-one);
 }
 
-[data-nav="ueber"],
+[data-nav="wer-ich-bin"],
 li.ueber .category,
 #ueber header h1 {
-    color: var(--color-one);
-}
-
-[data-nav="motivation"],
-li.motivation .category,
-#motivation header h1 {
     color: var(--color-two);
 }
 
-[data-nav="testimonials"],
+[data-nav="was-mich-motiviert"],
+li.motivation .category,
+#motivation header h1 {
+    color: var(--color-one);
+}
+
+[data-nav="was-andere-sagen"],
 li.testimonials .category,
 #testimonials header h1 {
-    color: var(--color-one);
+    color: var(--color-two);
 }
 
 [data-nav="kontakt"],
 li.kontakt .category,
 #kontakt header h1 {
-    color: var(--color-two);
+    color: var(--color-one);
 }
 
 
@@ -313,6 +322,7 @@ nav {
     }
     &#menu>ul {
         text-align: center;
+        font-family: var(--font-family);
         li {
             display: inline-block;
             &::before {
@@ -346,6 +356,7 @@ nav {
      left: -5px;
  }
 .subtitle {
+    font-family: var(--font-family);
     line-height: 1.2;
     .icon {
         top: 3px;
@@ -424,6 +435,7 @@ nav {
     }
     ul {
         list-style-type: none;
+        padding: 0;
     }
     &.lang-expanded {
         display: block;
@@ -695,6 +707,7 @@ figure,
 .figure-controls {
     max-width: var(--max-img-width);
     margin: auto;
+    overflow: hidden;
 }
 
 .entry-content {
@@ -789,10 +802,12 @@ FIGURES AND IMAGES
 img {
     width: 100%;
     display: block;
+    object-fit: cover;
 }
 
 figure {
     overflow: hidden;
+    object-fit: cover;
     margin: auto;
     margin-top: var(--pad-xlarge);
     &[data-imgstate="dither"] {
