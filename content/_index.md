@@ -5,12 +5,12 @@ summary: " "
 slug: "index"
 lang: "en"
 authors: []
-categories: ["home"]
+categories: []
 tags: []
 featured_image: "factory-workers.jpeg"
 draft: false
 ---
-{{% figure src="img_ueber.jpg" %}} Portrait-foto von Ursulina. {{% /figure %}}  
+{{% figure src="portrait.png" %}} Portrait-foto von Ursulina. {{% /figure %}}  
 
 ## Beratung und Coaching für Private und Führungspersonen
 
@@ -19,7 +19,7 @@ Ursulina Plouda Naegeli <tab>  |  Human Design Professional  |  BG5© Career & B
 
 <br>  
 
-> Habe Geduld in allen Dingen, vor allem aber mit dir selbst *- Franz von Sales*
+> Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> *~Franz von Sales*
 
 <br>  
 

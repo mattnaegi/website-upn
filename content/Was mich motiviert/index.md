@@ -14,8 +14,6 @@ draft: false
 {{% figure src="img_motivation.png" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}}  
 
 
-> Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> *~ Franz von Sales*
-
 Das A und O ist,  
 DICH selbst zu sein – und zu wissen, wie DU korrekte und gesunde Entscheide fürs eigene Leben triffst.  <br>  
 

@@ -39,9 +39,9 @@ Mein holistischer Coaching-Ansatz kann den Coaching-Prozess entscheidend/massgeb
 - Unternehmen
 
 ## Mit welchen Herausforderungen?
-- Selbstvertrauen / Selbstbewusstsein
-- «Schwierige» Beziehungen / Konfliktsituationen
-- Unklarheit in Entscheidungs-Situationen
+- Selbstvertrauen / Selbstbewusstsein 
+- «Schwierige» Beziehungen / Konfliktsituationen 
+- Unklarheit in Entscheidungs-Situationen 
 - Kein / wenig Fokus im Leben
 - Arbeitsbelastung bzw. Arbeitsüberlastung
 - Fragen in Führungs- bzw. Erziehungsthemen
@@ -59,7 +59,7 @@ Das Human Design Beratungstool errechnet aufgrund deiner Geburtsdaten dein indiv
 Das BG5-Tool hat als Grundlage ebenfalls das Human Design System und fokussiert sich auf praktische Anwendungen im Arbeitsumfeld: welcher Job ist erfüllend für dich? Ist für dich das Arbeiten allein, zu zweit, in kleinen oder grossen Gruppen angenehmer und damit erfolgversprechender? Welche konkreten und unsichtbaren Eigenschaften zeigen sich für dich, wenn du in Teams arbeitest? Welche unsichtbaren Beziehungsdynamiken erschweren dir das (Arbeits-)Leben und wie kannst du belastende Konfliktsituationen entschärfen, wenn du diese unsichtbaren Beziehungsdynamiken kennst?
 
 Abhängig von deinen Fragestellungen und deinen Wünschen, integriere ich - basierend auf den Human Design- und BG5^tm^-Tools - folgende Coaching-Techniken: 
-- Persönlichkeits-Analyse
+- Persönlichkeits-Coaching
 - Persönlichkeits-Entwicklungs-Analyse
 - Analyse individueller mentaler und körperlicher Gesundheit <br>
 

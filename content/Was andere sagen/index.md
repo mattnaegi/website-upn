@@ -11,7 +11,7 @@ featured_image: "factory-workers.jpeg"
 draft: false
 ---
 
-{{% figure src="img_ueber.jpg" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
+{{% figure src="testimonials.jpg" %}} Ein Doppelregenbogen in dunklem Himmel. {{% /figure %}} 
 <br>
 
 **Inhalt**  

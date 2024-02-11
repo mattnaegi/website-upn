@@ -29,12 +29,13 @@
   --font-highlight: 1.2rem;
   --font-body: 1rem;
   --font-small: 0.7rem;
-  --max-img-width: 100%;
+  --max-img-width: 90%;
   --max-content-width: 50rem;
+  --max-img-height: 20rem;
   --content-width: 75%; }
   @media only screen and (max-width: 980px) {
     :root {
-      --content-width: 90%; } }
+      --content-width: 100%; } }
   @media only screen and (max-width: 550px) {
     :root {
       --content-width: 100%; } }
@@ -609,7 +610,10 @@ FIGURES AND IMAGES
   margin: auto; }
 
 img {
-  width: 100%;
+  width: var(--max-img-width);
+  max-height: var(--max-img-height);
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   object-fit: cover; }
 
