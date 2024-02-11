@@ -11,7 +11,7 @@ featured_image:
 draft: false
 ---
 
-{{% figure src="img-passen-wir.jpg" %}} Bild eines Weges der an einer Klippe über dem Meer endet. {{% /figure %}}  
+{{% figure src="img-passen-wir.png" %}} Bild eines Weges der an einer Klippe über dem Meer endet. {{% /figure %}}  
 
 <br>
 

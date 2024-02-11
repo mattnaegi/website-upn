@@ -11,7 +11,7 @@ featured_image: "factory-workers.jpeg"
 draft: false
 ---
 
-{{% figure src="testimonials.jpg" %}} Ein Doppelregenbogen in dunklem Himmel. {{% /figure %}} 
+{{% figure src="testimonials.png" %}} Ein Doppelregenbogen in dunklem Himmel. {{% /figure %}} 
 <br>
 
 **Inhalt**  

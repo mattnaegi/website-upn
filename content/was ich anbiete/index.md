@@ -11,7 +11,7 @@ featured_image: "me.jpg"
 draft: false
 ---
 
-{{% figure src="img_angebot.jpeg" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
+{{% figure src="img_angebot.png" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
 <br>
 
 **Inhalt**  
