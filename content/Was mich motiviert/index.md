@@ -13,18 +13,18 @@ draft: false
 
 {{% figure src="img_motivation.png" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}}  
 
+«Ich biete Beratung und Coaching an, weil ich aus eigener Erfahrung weiss, dass mein Leben freudvoller und widerstandsloser wird, je besser ich mich selbst kenne und lerne, meine Entscheide auf meine ganz individuelle Art zu fällen mit Hilfe des Human Design System/BG5-Beratungs-Tools.  <br>  
 
-Das A und O ist,  
-DICH selbst zu sein – und zu wissen, wie DU korrekte und gesunde Entscheide fürs eigene Leben triffst.  <br>  
+#### Das A und O ist, <br> DU selbst zu sein – und zu wissen, wie DU korrekte und gesunde Entscheide fürs eigene Leben triffst.  <br>  
 
-*«Ich biete Beratung und Coaching an, weil ich aus eigener Erfahrung weiss, dass mein Leben freudvoller und widerstandsloser wird, je besser ich mich selbst kenne und lerne, meine Entscheide auf meine ganz individuelle Art zu fällen mit Hilfe des Human Design System/BG5-Beratungs-Tools.*
 
 <br>
 
-Das A und O ist,  
-DICH selbst zu sein – und zu wissen, wie du auf andere wirkst und wie es für dich korrekt und gesund ist, dich in Beziehungen mit anderen zu verhalten.  <br>  
+*«Ich biete Beratung und Coaching an, weil ich fasziniert und erleichtert bin, in privaten und beruflichen Beziehungen anerkennendes, harmonisches und erfolgreiches Zusammensein zu erreichen mit Hilfe des Human Design System/BG5-Beratungs-Tools, kombiniert mit meinem Kommunikations- und Konfliktmanagement-Wissen.»*  <br>  
 
-*«Ich biete Beratung und Coaching an, weil ich fasziniert und erleichtert bin, in privaten und beruflichen Beziehungen anerkennendes, harmonisches und erfolgreiches Zusammensein zu erreichen mit Hilfe des Human Design System/BG5-Beratungs-Tools, kombiniert mit meinem Kommunikations- und Konfliktmanagement-Wissen.»*  
+#### Das A und O ist, <br> DU selbst zu sein – und zu wissen, wie du auf andere wirkst und wie es für dich korrekt und gesund ist, dich in Beziehungen mit anderen zu verhalten.
+
+
 
 <br>
 

@@ -15,14 +15,14 @@ draft: false
 <br>
 
 **Inhalt**  
-[Persönlichkeits-coaching](#persönlichkeits-coaching)  
-[Partnerschafts- und Familien-coaching](#partnerschafts--und-familien-coaching)  
-[Laufbahn-coaching](#laufbahn-coaching)  
+[Persönlichkeits-Coaching](#persönlichkeits-coaching)  
+[Partnerschafts- und Familien-Coaching](#partnerschafts--und-familien-coaching)  
+[Laufbahn-Coaching](#laufbahn-coaching)  
 [Mehrjährige Prozessbegleitung](#mehrjährige-prozessbegleitung)  
 
 <br>  
 
-## Persönlichkeits-coaching  
+## Persönlichkeits-Coaching  
 
 «Für mich war das auf «Human Design» basierende Coaching mit Ursulina Plouda Naegeli sehr aufschlussreich. Ich konnte mir anfänglich wenig vorstellen, erkannte mich jedoch in vielen Aspekten wieder. Das Wissen, welche Stärken ich in Beruf und Familie einbringen kann, meine offenen Bereiche jedoch nicht unbedingt als Manko sehen zu müssen, hat mir im Alltag vieles in einem anderen Licht erscheinen lassen.»  
 *DSt, Winterthur, Schweiz*  
@@ -43,7 +43,7 @@ Die eigene Körpergrafik erklärt zu bekommen, war sehr aufschlussreich: Ich hab
 <br>  
 
 
-## Partnerschafts- und Familien-coaching  
+## Partnerschafts- und Familien-Coaching  
 
 «Zusätzlich interessant waren die treffenden Analysen der weiteren Familienmitglieder. Der gegenseitige Umgang hat davon profitiert. Mit dem gewachsenen Verständnis kann ich einiges gelassener sehen.»  
 *HS, Winterthur, Schweiz*
@@ -57,7 +57,7 @@ Die eigene Körpergrafik erklärt zu bekommen, war sehr aufschlussreich: Ich hab
 <br>  
 
 
-## Laufbahn-coaching  
+## Laufbahn-Coaching  
 
 „Durch Ursulinas Coaching durfte ich einige Aha-Momente erleben, die mir halfen, meine alltäglichen Gedanken und Taten besser nachzuvollziehen und somit auch in Zukunft bewusster mit mir und meinen Mitmenschen umzugehen. Die praktischen Tipps und Zusammenfassungen der Sitzungen unterstützen mich bei der Umsetzung. Ich fühlte mich immer sehr wohl, da Ursulina durch ihr umfangreiches, professionelles Wissen das Coaching auf mich persönlich anpassen konnte. Ich suchte ursprünglich eine neutrale Unterstützung für meine Berufswahl und durfte schlussendlich eine ganzheitliche Beratung erfahren, in welcher ich mich nicht nur in arbeitstechnischer Hinsicht, sondern auch in vielen anderen Bereichen besser kennen lernen durfte. Ich kann die Beratung bei Ursulina nur weiterempfehlen!“  
 *AM, Frauenfeld, Schweiz*  

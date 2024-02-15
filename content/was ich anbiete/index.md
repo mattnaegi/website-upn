@@ -39,14 +39,7 @@ Einzelpersonen
 &emsp;&emsp;&emsp;&emsp;Unternehmen  
 
 ## Mit welchen Herausforderungen?
-- Selbstvertrauen / Selbstbewusstsein 
-- «Schwierige» Beziehungen / Konfliktsituationen 
-- Unklarheit in Entscheidungs-Situationen 
-- Kein / wenig Fokus im Leben
-- Arbeitsbelastung bzw. Arbeitsüberlastung
-- Fragen in Führungs- bzw. Erziehungsthemen
-- Neuausrichtung im Leben (z.B. Studienwahl, Berufswahl, Stellenwechsel, neue Familienkonstellationen) 
-- Oder du bist einfach neugierig auf deine persönlichen Erfolgsschlüssel und möchtest dich gerne besser kennenlernen?
+• Selbstvertrauen / Selbstbewusstsein &nbsp; • «Schwierige» Beziehungen / Konfliktsituationen &nbsp; • Unklarheit in Entscheidungs-Situationen &nbsp; • Kein / wenig Fokus im Leben &nbsp; • Arbeitsbelastung bzw. Arbeitsüberlastung  &nbsp; • Fragen in Führungs- bzw. Erziehungsthemen &nbsp; • Neuausrichtung im Leben (z.B. Studienwahl, Berufswahl, Stellenwechsel, neue Familienkonstellationen) &nbsp; • Oder du bist einfach neugierig auf deine persönlichen Erfolgsschlüssel und möchtest dich gerne besser kennenlernen?
 
 ## Wo?
 Persönlicher Beratungsraum  
@@ -59,27 +52,29 @@ Das Human Design Beratungstool errechnet aufgrund deiner Geburtsdaten dein indiv
 Das BG5-Tool hat als Grundlage ebenfalls das Human Design System und fokussiert sich auf praktische Anwendungen im Arbeitsumfeld: welcher Job ist erfüllend für dich? Ist für dich das Arbeiten allein, zu zweit, in kleinen oder grossen Gruppen angenehmer und damit erfolgversprechender? Welche konkreten und unsichtbaren Eigenschaften zeigen sich für dich, wenn du in Teams arbeitest? Welche unsichtbaren Beziehungsdynamiken erschweren dir das (Arbeits-)Leben und wie kannst du belastende Konfliktsituationen entschärfen, wenn du diese unsichtbaren Beziehungsdynamiken kennst?
 
 Abhängig von deinen Fragestellungen und deinen Wünschen, integriere ich - basierend auf den Human Design- und BG5©-Tools - folgende Coaching-Techniken: 
-- Persönlichkeits-Coaching
-- Persönlichkeits-Entwicklungs-Analyse
-- Analyse individueller mentaler und körperlicher Gesundheit <br>
+- Persönlichkeits-Coaching  
+- Persönlichkeits-Entwicklungs-Analyse  
+- Analyse individueller mentaler und körperlicher Gesundheit  
+<br>  
+- Konfliktmanagement  
+<br>  
+- Executive Coaching  
+- Team-Analysen  
+- Team-Entwicklungs-Analysen  
+<br>  
+- Körperarbeit  
+<br>
+- Atemübungen  
+<br>
+- Arbeit mit Gedanken  
+<br>  
+- Arbeiten am Flip-Chart: Gedanken, Gefühle und Situationen sichtbar machen und Zusammenhänge visuell darstellen und strukturieren
 
-- Konfliktmanagement <br>
+<br>  
+<br>  
 
-- Executive Coaching
-- Team-Analysen
-- Team-Entwicklungs-Analysen <br>
-
-- Körperarbeit <br>
-
-- Atemübungen <br>
-
-- Arbeit mit Gedanken <br>
-
-- Arbeiten am Flip-Chart: Gedanken, Gefühle und Situationen sichtbar machen und Zusammenhänge visuell darstellen und strukturieren <br>
-
-
-Der Coaching-Erfolg hängt stark von deiner Mitarbeit während und nach den Coachings ab: 
-•	Bist du bereit, mir die Geburtsdaten von dir und/oder deiner Teams mitzuteilen? 
-•	Bist du bereit, in deinen persönlichen Veränderungsprozess einzusteigen und mit deinen persönlichen Erfolgsschlüsseln zu experimentieren?
-•	Bist du als Führungsperson bereit für meine professionelle Unterstützung im Executive Coaching, falls gewünscht mit Teamanalyse und -entwicklung?
+**Der Coaching-Erfolg hängt stark von deiner Mitarbeit während und nach den Coachings ab:**
+- Bist du bereit, mir die Geburtsdaten von dir und/oder deiner Teams mitzuteilen? 
+- Bist du bereit, in deinen persönlichen Veränderungsprozess einzusteigen und mit deinen persönlichen Erfolgsschlüsseln zu experimentieren?
+- Bist du als Führungsperson bereit für meine professionelle Unterstützung im Executive Coaching, falls gewünscht mit Teamanalyse und -entwicklung?
 

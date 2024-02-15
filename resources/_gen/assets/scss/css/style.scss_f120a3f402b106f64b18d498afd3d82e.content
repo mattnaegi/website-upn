@@ -561,8 +561,7 @@ figure,
   font-size: var(--font-medium); }
 
 .entry-content h4 {
-  font-size: var(--font-highlight);
-  text-align: center; }
+  font-size: var(--font-highlight); }
 
 .entry-content h3 {
   margin: calc(4*var(--pad)) auto 0; }
