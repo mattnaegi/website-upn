@@ -55,7 +55,7 @@ Findest du private und/oder berufliche Beziehungen anstrengend und wünschst dir
 
 ## Passen wir zusammen?  
 
-Während des Coaching-Prozesses liegt mein Fokus bei dir. Ich verwende deine persönlichen Erfolgsschlüssel, basierend auf deinem individuellen BG5^TM^-Persönlichkeits-Profil. Mein ganzkörperlicher Ansatz beinhaltet – falls von dir gewünscht – Atemübungen, Körperarbeit und Arbeit mit Gedanken. Sehr gerne arbeite ich auch mit dem Flip-Chart, um Gedanken, Gefühle und Situationen sichtbar zu machen und Zusammenhänge visuell darzustellen und zu strukturieren.  
+Während des Coaching-Prozesses liegt mein Fokus bei dir. Ich verwende deine persönlichen Erfolgsschlüssel, basierend auf deinem individuellen BG5©-Persönlichkeits-Profil. Mein ganzkörperlicher Ansatz beinhaltet – falls von dir gewünscht – Atemübungen, Körperarbeit und Arbeit mit Gedanken. Sehr gerne arbeite ich auch mit dem Flip-Chart, um Gedanken, Gefühle und Situationen sichtbar zu machen und Zusammenhänge visuell darzustellen und zu strukturieren.  
 Dank meines Persönlichkeits-Typs «Beraterin» erkenne ich schnell, wo der Schuh drückt, und freue mich, dich in ein erfolgreiches und erfülltes Leben zu begleiten und auch Unterstützung in Führungsthemen zu geben.
 Entsprechend meiner persönlichen Begabungen und falls du es wünschst, fokussiere ich auf folgende Themen:
 

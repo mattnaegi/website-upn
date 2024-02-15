@@ -28,7 +28,7 @@ DICH selbst zu sein – und zu wissen, wie du auf andere wirkst und wie es für 
 
 <br>
 
-Während des Coaching-Prozesses liegt mein Fokus bei dir. Wenn du ein Thema hast, das du im Coaching gerne besprochen haben möchtest, dann können wir konkret bei diesem Thema einsteigen und dranbleiben. Gleichzeitig verwende ich deine persönlichen Erfolgsschlüssel auf Basis des Human Design Systems/BG5^tm^-Tools. Diese ermöglichen mir, dir konkrete und persönlich auf dich zugeschnittene Fragen zu stellen und dich dadurch ganz individuell zu unterstützen. Zusammen erarbeiten wir mögliche Verhaltensänderungen oder auch nächste Schritte bezüglich deines Anliegens.
+Während des Coaching-Prozesses liegt mein Fokus bei dir. Wenn du ein Thema hast, das du im Coaching gerne besprochen haben möchtest, dann können wir konkret bei diesem Thema einsteigen und dranbleiben. Gleichzeitig verwende ich deine persönlichen Erfolgsschlüssel auf Basis des Human Design Systems/BG5©-Tools. Diese ermöglichen mir, dir konkrete und persönlich auf dich zugeschnittene Fragen zu stellen und dich dadurch ganz individuell zu unterstützen. Zusammen erarbeiten wir mögliche Verhaltensänderungen oder auch nächste Schritte bezüglich deines Anliegens.
 Sehr gerne arbeite ich mit dem Flip-Chart, um Gedanken, Gefühle und Situationen sichtbar zu machen und Zusammenhänge visuell darzustellen und zu strukturieren. Mein ganzkörperlicher Ansatz beinhaltet – falls von dir gewünscht – Atemübungen, Entspannungsübungen und Arbeit mit Gedanken. 
 
 <br>

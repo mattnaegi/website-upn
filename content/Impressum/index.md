@@ -7,7 +7,7 @@ lang: "en"
 authors: []
 categories: []
 tags: []
-featured_image: "factory-workers.jpeg"
+featured_image:
 draft: false
 unlisted: true
 ---

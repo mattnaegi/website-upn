@@ -7,35 +7,42 @@ lang: "en"
 authors: []
 categories: []
 tags: []
-featured_image: "factory-workers.jpeg"
+featured_image: 
 draft: false
 ---
-{{% figure src="portrait.png" %}} Portrait-foto von Ursulina. {{% /figure %}}  
 
-## Beratung und Coaching für Private und Führungspersonen
-
-//how the f do i write a "tab"?
-Ursulina Plouda Naegeli <tab>  |  Human Design Professional  |  BG5© Career & Business Consultant  
+## <p style="text-align: center; color: var(--color-two)">Beratung und Coaching <br> &nbsp; für Private und Führungspersonen</p>
 
 <br>  
 
-> Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> *~Franz von Sales*
+{{% figure src="portrait.png" width="400px" object-position="center" %}} {{% /figure %}}  
+
+
+ 
+<p style="text-align: center">Human Design Professional &emsp; | &emsp; BG5© Career & Business Consultant</p>  
 
 <br>  
 
-#### Deine persönlichen Erfolgsschlüssel
-– ermöglichen dir individuell auf dich zugeschnittenes Selbst-Management
+> <p style="text-align: center">Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> Franz von Sales</p>
 
-#### Beziehungsdynamiken sichtbar gemacht
-– bringen Erleichterung und Erfolg in dein Leben und in deine Arbeit
+<br>  
 
-#### Inputs zu deiner mentalen und körperlichen Gesundheit
-– führen zu Leichtigkeit und mehr Freude und Erfolg in deinem Leben
+### Deine persönlichen Erfolgsschlüssel
+<p style="text-align: right">ermöglichen dir individuell auf dich zugeschnittenes Selbst-Management </p>  
 
 <br>
 
-*Diese Kernthemen liegen mir am Herzen!*
-<br>  
+### Beziehungsdynamiken sichtbar gemacht
+<p style="text-align: right">bringen Erleichterung und Erfolg in dein Leben und in deine Arbeit </p>  
+
 <br>
 
-Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Leben, Arbeiten und Führen zu vereinfachen und verbessern.
+### Inputs zu deiner mentalen und körperlichen Gesundheit
+<p style="text-align: right">führen zu Leichtigkeit und mehr Freude und Erfolg in deinem Leben </p>
+
+<br>
+
+#### Diese Kernthemen liegen mir am Herzen!
+<br>  
+
+**Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Leben, Arbeiten und Führen zu vereinfachen und verbessern.**
