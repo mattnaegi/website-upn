@@ -24,9 +24,14 @@ draft: false
 
 <br>  
 
-> <p style="text-align: center">Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> <i> ~ Franz von Sales </i></p>
+> <p style="text-align: center">Habe Geduld in allen Dingen, vor allem aber mit dir selbst. <br> <i> ~ Franz von Sales ~ </i></p>
 
 <br>  
+
+
+### <p style="text-align: center; color:var(--color-two)"> Diese Kernthemen liegen mir am Herzen!    
+
+<br>
 
 ### Deine persönlichen Erfolgsschlüssel
 <p style="text-align: right">ermöglichen dir individuell auf dich zugeschnittenes Selbst-Management </p>  
@@ -43,6 +48,5 @@ draft: false
 
 <br>
 
-#### <p style="text-align: center"> Diese Kernthemen liegen mir am Herzen!    
 
 **<p style="text-align: center"> Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Leben, Arbeiten und Führen zu vereinfachen und verbessern.**

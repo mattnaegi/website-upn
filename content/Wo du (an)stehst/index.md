@@ -48,16 +48,36 @@ Erlebst du Konfliktsituationen in Teams und wünschst dir Unterstützung?
 
 ## Wie möchtest du dich nach einem Coaching fühlen?
 
-Klarer in deinen Gedanken und Gefühlen?  
-Gelassener?  
-Zufriedener?   
-Erleichtert?  
-Inspiriert und angeregt?  
-Ermutigt?  
-Dankbar?  
-Neugierig auf mehr?  
-Bestärkt?  
-Sicherer? 
+<img src="/static/icons/" 
+alt="Klarer in deinen Gedanken und Gefühlen? Gelassener? Zufriedener? Erleichtert? Inspiriert und angeregt? Ermutigt? Dankbar? Neugierig auf mehr? Bestärkt? Sicherer?" 
+style="display: inline-block; width:80%; max-width:300px; object-position:left; margin: var(--pad-large) auto;">
+
+<!--
+{{% figure src="gefühle.svg" %}} 
+Klarer in deinen Gedanken und Gefühlen? Gelassener? Zufriedener? Erleichtert? Inspiriert und angeregt? Ermutigt? Dankbar? Neugierig auf mehr? Bestärkt? Sicherer? {{% /figure %}} 
+
+
+#### Klarer in deinen Gedanken und Gefühlen?
+
+<h4 style="text-align:right"> Gelassener? </h4>  
+
+#### Zufriedener?   
+
+<h4 style="text-align:center"> Erleichtert?  </h4>
+
+<h4 style="text-align:center"> Inspiriert und angeregt? </h4> 
+
+#### Ermutigt?  
+
+<h4 style="text-align:right"> Dankbar?  </h4>
+
+<h4 style="text-align:center"> Neugierig auf mehr?  </h4>
+
+<h4 style="text-align:right"> Bestärkt?  </h4>  
+
+#### Sicherer? 
+
+-->
                                        
   
 <br>
@@ -78,7 +98,7 @@ Entsprechend meiner persönlichen Begabungen und falls du es wünschst, fokussie
 
 <br>
 
-#### Hier findest du mehr zu [meinem Angebot](/angebot/).
+#### Hier findest du mehr zu [meinem Angebot](website-upn/angebot/).
 
 <br>
 <br>

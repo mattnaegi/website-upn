@@ -17,7 +17,7 @@ draft: false
 
 **Inhalt**  
 - [My Story](#my-story)  
-- [Mein Leben/meine Ausbildungen](#mein-leben--meine-ausbildungen)
+- [Meine Tätigkeiten und Ausbildungen](#meine-ausbildungen)
 
 
 
@@ -40,33 +40,25 @@ Das Beratungs-Tool aus Human Design System- und BG5© beinhalten aus meiner Sich
 
 <br>  
 
-## Mein Leben / meine Ausbildungen
+## Meine Tätigkeiten und Ausbildungen
 
 geboren 1966 in Zürich  
 aufgewachsen in Felben-Wellhausen, TG, Schweiz
 <br>
 
 ### Tätigkeiten und Ausbildungen 
+
+<br>
+
+> 1. **Persönlichkeitsberaterin** <br> "Human Design Professional" für Einzel-, Partnerschafts- und Elternberatung, [link](https://www.ihdschool.com/professionals?id=4d61b21b-1c79-4db9-a797-405ec2aa93b3)  
+> 2. **Karriere- und Businessberaterin**</h4> <br> BG5 Career & Business Consultant, [link](https://bg5businessinstitute.com/professionals?id=ec1d30f8-3535-47ab-bd30-853d6d99eeee)  
+
+<br>  
+
 - Fundierte Führungsausbildung: Betriebsökonomin FH, Facility Management  
 - Über 10 Jahre Führungserfahrung in grossen, mittleren und kleinen Unternehmen und Institutionen  
-- Laufende Weiterbildungen in Kommunikation <br> Spezialisierung: Beziehungs- und Konfliktmanagement (Gordon, Glasl)
-- CAS WBB an der Executive School <br> St. Gallen: Women Back to Business
-
-> 1. **Persönlichkeitsberaterin** <br> "Human Design Professional" für Einzel-, Partnerschafts- und Elternberatung  
-> 2. **Karriere- und Businessberaterin**</h4> <br> BG5 Career & Business Consultant
-
+- Laufende Weiterbildungen in Kommunikation <br> Spezialisierung: Beziehungs- und Konfliktmanagement (Gordon, Glasl)  
+- CAS WBB an der Executive School St. Gallen: Women Back to Business  
 - Familien-Management: <br> 3 Kinder Jahrgänge 1998, 2000, 2002
 - Auslandaufenthalte: <br> 1 Jahr USA, 1997/1998 <br> 2 Jahre England, 2006-2008
 - Behördentätigkeiten
-
-(vorlieben würde ich weglassen, was meinst du?)
-### Vorlieben
-Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Arbeiten, Führen und Leben zu vereinfachen und verbessern.  
-  
-Besonders gerne analysiere ich den persönlichen Umgang aller Mitarbeitenden untereinander - dort wo am meisten Konflikte entstehen -. Ich liebe es, Betriebsprozesse auf meine individuelle und pragmatische Art zu analysieren - unter Einbezug aller gesammelter Führungserfahrungen und meinem fundierten Fachwissen.  
-  
-Ich geniesse es, gemeinsam mit Ihnen umsetzbare Verbesserungen zu erarbeiten. Und am schönsten für mich ist es, wenn Sie Ihr Ziel erreichen, dass Sie einen klaren Return on Investment erhalten, indem Sie produktiver arbeiten, besser führen und Ihre Teams mehr erreichen werden.  
-  
-Als Ausgleich geniesse ich zwischendurch Zeit für mich und bevorzuge sonnige, warme Plätze sowie das Meer.  
-  
-Nicht zuletzt schöpfe ich viel Kraft und Energie in meiner Familie.
