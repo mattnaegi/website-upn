@@ -24,5 +24,5 @@ Poststrasse 12
 
 <br>
 
-Texte: Ursulina Plouda Naegeli
+Texte: Ursulina Plouda Naegeli  
 Design und Umsetzung: [Matthias Naegeli](https://mattnaegi.github.io/portfolio-website/) basierend auf der Vorlage von [Low<-tech Magazine](https://solar.lowtechmagazine.com/)  

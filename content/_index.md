@@ -15,8 +15,9 @@ draft: false
 
 <br>  
 
-{{% figure src="portrait.png" width="400px" object-position="center" %}} {{% /figure %}}  
+<img src="images/portrait.png" style="width:400px; object-position:center">
 
+<!--{{% figure src="portrait.png" width="400px" object-position="center" %}} bild von ursulina. {{% /figure %}} --> 
 
  
 <p style="text-align: center">Human Design Professional &emsp; | &emsp; BG5© Career & Business Consultant</p>  
@@ -42,8 +43,6 @@ draft: false
 
 <br>
 
-#### <p style="text-align: center"> Diese Kernthemen liegen mir am Herzen!   
+#### <p style="text-align: center"> Diese Kernthemen liegen mir am Herzen!    
 
-<br>  
-
-**Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Leben, Arbeiten und Führen zu vereinfachen und verbessern.**
+**<p style="text-align: center"> Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Leben, Arbeiten und Führen zu vereinfachen und verbessern.**

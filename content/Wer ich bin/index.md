@@ -11,7 +11,7 @@ featured_image:
 draft: false
 ---
 
-{{% figure src="ueber.png" max-width="50px" %}} Portrait-foto von Ursulina. {{% /figure %}} 
+<img src="images/ueber.png" style="display: inline-block; width:80%; max-width:300px; object-position:left; margin: var(--pad-large) auto;">
 
 <br>
 
@@ -20,7 +20,9 @@ draft: false
 - [Mein Leben/meine Ausbildungen](#mein-leben--meine-ausbildungen)
 
 
+
 ## My Story  
+
 
 *"Ich weiss aus eigener Erfahrung, dass mein Leben freudvoller und widerstandsloser wird, je besser ich mich selbst kenne und lerne, meine Entscheide auf meine ganz individuelle Art zu fällen. Sowohl privat als auch beruflich bin ich erfolgreicher, wenn ich meine persönlichen Erfolgsschlüssel kenne und anwende. In meinen Erfolgsschlüsseln liegt auch das Wissen über den erfolgreichen Umgang in meinen Beziehungen, sei es in der Familie, im Freundeskreis oder mit meinen Geschäftspartnerinnen und -partnern, meinen Kundinnen und Kunden und meinen Mitarbeitenden."*
 
@@ -40,4 +42,31 @@ Das Beratungs-Tool aus Human Design System- und BG5© beinhalten aus meiner Sich
 
 ## Mein Leben / meine Ausbildungen
 
-[noch einfügen]  
+geboren 1966 in Zürich  
+aufgewachsen in Felben-Wellhausen, TG, Schweiz
+<br>
+
+### Tätigkeiten und Ausbildungen 
+- Fundierte Führungsausbildung: Betriebsökonomin FH, Facility Management  
+- Über 10 Jahre Führungserfahrung in grossen, mittleren und kleinen Unternehmen und Institutionen  
+- Laufende Weiterbildungen in Kommunikation <br> Spezialisierung: Beziehungs- und Konfliktmanagement (Gordon, Glasl)
+- CAS WBB an der Executive School <br> St. Gallen: Women Back to Business
+
+> 1. **Persönlichkeitsberaterin** <br> "Human Design Professional" für Einzel-, Partnerschafts- und Elternberatung  
+> 2. **Karriere- und Businessberaterin**</h4> <br> BG5 Career & Business Consultant
+
+- Familien-Management: <br> 3 Kinder Jahrgänge 1998, 2000, 2002
+- Auslandaufenthalte: <br> 1 Jahr USA, 1997/1998 <br> 2 Jahre England, 2006-2008
+- Behördentätigkeiten
+
+(vorlieben würde ich weglassen, was meinst du?)
+### Vorlieben
+Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, Arbeiten, Führen und Leben zu vereinfachen und verbessern.  
+  
+Besonders gerne analysiere ich den persönlichen Umgang aller Mitarbeitenden untereinander - dort wo am meisten Konflikte entstehen -. Ich liebe es, Betriebsprozesse auf meine individuelle und pragmatische Art zu analysieren - unter Einbezug aller gesammelter Führungserfahrungen und meinem fundierten Fachwissen.  
+  
+Ich geniesse es, gemeinsam mit Ihnen umsetzbare Verbesserungen zu erarbeiten. Und am schönsten für mich ist es, wenn Sie Ihr Ziel erreichen, dass Sie einen klaren Return on Investment erhalten, indem Sie produktiver arbeiten, besser führen und Ihre Teams mehr erreichen werden.  
+  
+Als Ausgleich geniesse ich zwischendurch Zeit für mich und bevorzuge sonnige, warme Plätze sowie das Meer.  
+  
+Nicht zuletzt schöpfe ich viel Kraft und Energie in meiner Familie.

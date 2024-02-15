@@ -73,8 +73,9 @@ Abhängig von deinen Fragestellungen und deinen Wünschen, integriere ich - basi
 <br>  
 <br>  
 
-**Der Coaching-Erfolg hängt stark von deiner Mitarbeit während und nach den Coachings ab:**
-- Bist du bereit, mir die Geburtsdaten von dir und/oder deiner Teams mitzuteilen? 
+
+### Der Coaching-Erfolg hängt stark von deiner Mitarbeit während und nach den Coachings ab:
+- Bist du bereit, mir die Geburtsdaten von dir und/oder deinen Teammitgliedern mitzuteilen? 
 - Bist du bereit, in deinen persönlichen Veränderungsprozess einzusteigen und mit deinen persönlichen Erfolgsschlüsseln zu experimentieren?
 - Bist du als Führungsperson bereit für meine professionelle Unterstützung im Executive Coaching, falls gewünscht mit Teamanalyse und -entwicklung?
 
