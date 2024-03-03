@@ -11,7 +11,7 @@ featured_image:
 draft: false
 ---
 
-{{% figure src="img-passen-wir.png" %}} Bild eines Weges der an einer Klippe über dem Meer endet. {{% /figure %}}  
+{{% figure src="img-passen-wir.png" %}} Südküste, England {{% /figure %}}  
 
 <br>
 
@@ -21,19 +21,30 @@ draft: false
   
 <br>
 
+<h3 style="text-align:center">Wie entscheiden?</h3>
+<br>
 
 Suchst du privat oder beruflich eine neue Herausforderung und fühlst dich unsicher, hin- und hergerissen, was es sein könnte? Wünschst du dir individuell auf dich abgestimmte Beratung und Begleitung?  
 **<p style="text-align: right"> Möchtest du dich klarer in deinen Gedanken und Gefühlen erleben? Möchtest du dich sicher fühlen in Bezug auf einen bevorstehenden Entscheid? </p>** 
 <br>
+
+<h3 style="text-align:center">Konflikte</h3>
+<br>  
 
 Fühlst du dich unwohl und aufgewühlt, blockiert oder schuldig in Konfliktsituationen?
 Findest du private und/oder berufliche Beziehungen anstrengend und wünschst dir Erleichterung?  
 **<p style="text-align: right"> Möchtest du dich in Konfliktsituationen sicher und stark fühlen im Wissen, wie du konkret kommunizierst, um eigene Gefühlsausbrüche und Beschuldigungen oder diejenigen des anderen zu vermeiden? </p>**
 <br>
 
+<h3 style="text-align:center">Stress</h3>  
+<br>  
+
 Fühlst du dich gestresst, wie im Hamsterrad und wünschst dir mehr Zeit zum Durchatmen und mehr Zeit für Anderes?  
 **<p style="text-align: right"> Möchtest du dich gerne frei von erdrückender Arbeitslast und Verantwortung für andere fühlen und mehr Zeit und Freiraum haben für das, was du gerne tust? </p>**
 <br>
+
+<h3 style="text-align:center">Anspruchsvolle Führungsthemen</h3>
+<br>  
 
 Führst du Teams und bist unzufrieden, wie sie zusammenarbeiten und unzufrieden mit ihrem Output?  
 **<p style="text-align: right"> Möchtest du gerne zufrieden sein mit deinen Teams? Möchtest du ermutigt und bestärkt sein, wie du deine Teams zu Erfolg begleitest und führst? </p>** 
@@ -86,7 +97,7 @@ Klarer in deinen Gedanken und Gefühlen? Gelassener? Zufriedener? Erleichtert? I
 
 ## Passen wir zusammen?  
 
-Während des Coaching-Prozesses liegt mein Fokus bei dir. Ich verwende deine persönlichen Erfolgsschlüssel, basierend auf deinem individuellen BG5©-Persönlichkeits-Profil. Mein ganzkörperlicher Ansatz beinhaltet – falls von dir gewünscht – Atemübungen, Körperarbeit und Arbeit mit Gedanken. Sehr gerne arbeite ich auch mit dem Flip-Chart, um Gedanken, Gefühle und Situationen sichtbar zu machen und Zusammenhänge visuell darzustellen und zu strukturieren.  
+Während des Coaching-Prozesses liegt mein Fokus bei dir. Ich verwende deine persönlichen Erfolgsschlüssel, basierend auf deinem individuellen BG5®-Persönlichkeits-Profil. Mein ganzkörperlicher Ansatz beinhaltet – falls von dir gewünscht – Atemübungen, Körperarbeit und Arbeit mit Gedanken. Sehr gerne arbeite ich auch mit dem Flip-Chart, um Gedanken, Gefühle und Situationen sichtbar zu machen und Zusammenhänge visuell darzustellen und zu strukturieren.  
 Dank meines Persönlichkeits-Typs «Beraterin» erkenne ich schnell, wo der Schuh drückt, und freue mich, dich in ein erfolgreiches und erfülltes Leben zu begleiten und auch Unterstützung in Führungsthemen zu geben.
 Entsprechend meiner persönlichen Begabungen und falls du es wünschst, fokussiere ich auf folgende Themen:
 
@@ -98,7 +109,7 @@ Entsprechend meiner persönlichen Begabungen und falls du es wünschst, fokussie
 
 <br>
 
-#### Hier findest du mehr zu [meinem Angebot](website-upn/angebot/).
+#### Hier findest du mehr zu [meinem Angebot](/angebot/).
 
 <br>
 <br>

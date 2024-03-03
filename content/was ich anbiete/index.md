@@ -11,7 +11,7 @@ featured_image: "me.jpg"
 draft: false
 ---
 
-{{% figure src="img_angebot.png" %}} Ein Sonnenaufgang über dem Meer {{% /figure %}} 
+{{% figure src="img_angebot.png" %}} Mount Maunganui, Neuseeland {{% /figure %}} 
 <br>
 
 **Inhalt**  
@@ -47,11 +47,11 @@ Online
 Seminarraum  
 
 ## Womit?
-Für alle Coachings verwende ich sowohl das Human Design System als auch das BG5-Tool.  
+Für alle Coachings verwende ich sowohl das Human Design System als auch das BG5®-Tool.  
 Das Human Design Beratungstool errechnet aufgrund deiner Geburtsdaten dein individuelles Persönlichkeitsprofil. Darin sind unter anderem auch deine persönlichen Erfolgsschlüssel wie z.B. dein Persönlichkeitstyp mit individueller Entscheidungsstrategie enthalten und vieles mehr.
-Das BG5-Tool hat als Grundlage ebenfalls das Human Design System und fokussiert sich auf praktische Anwendungen im Arbeitsumfeld: welcher Job ist erfüllend für dich? Ist für dich das Arbeiten allein, zu zweit, in kleinen oder grossen Gruppen angenehmer und damit erfolgversprechender? Welche konkreten und unsichtbaren Eigenschaften zeigen sich für dich, wenn du in Teams arbeitest? Welche unsichtbaren Beziehungsdynamiken erschweren dir das (Arbeits-)Leben und wie kannst du belastende Konfliktsituationen entschärfen, wenn du diese unsichtbaren Beziehungsdynamiken kennst?
+Das BG5®-Tool hat als Grundlage ebenfalls das Human Design System und fokussiert sich auf praktische Anwendungen im Arbeitsumfeld: welcher Job ist erfüllend für dich? Ist für dich das Arbeiten allein, zu zweit, in kleinen oder grossen Gruppen angenehmer und damit erfolgversprechender? Welche konkreten und unsichtbaren Eigenschaften zeigen sich für dich, wenn du in Teams arbeitest? Welche unsichtbaren Beziehungsdynamiken erschweren dir das (Arbeits-)Leben und wie kannst du belastende Konfliktsituationen entschärfen, wenn du diese unsichtbaren Beziehungsdynamiken kennst?
 
-Abhängig von deinen Fragestellungen und deinen Wünschen, integriere ich - basierend auf den Human Design- und BG5©-Tools - folgende Coaching-Techniken: 
+Abhängig von deinen Fragestellungen und deinen Wünschen, integriere ich - basierend auf den Human Design- und BG5®-Tools - folgende Coaching-Techniken: 
 - Persönlichkeits-Coaching  
 - Persönlichkeits-Entwicklungs-Analyse  
 - Analyse individueller mentaler und körperlicher Gesundheit  

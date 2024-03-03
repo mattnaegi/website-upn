@@ -20,7 +20,7 @@ draft: false
 <!--{{% figure src="portrait.png" width="400px" object-position="center" %}} bild von ursulina. {{% /figure %}} --> 
 
  
-<p style="text-align: center">Human Design Professional &emsp; | &emsp; BG5© Career & Business Consultant</p>  
+<p style="text-align: center">Human Design Professional &emsp; | &emsp; BG5® Career & Business Consultant</p>  
 
 <br>  
 
