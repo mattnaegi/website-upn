@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ursulina Plouda Naegeli English</title>
-    <link>/languages/</link>
+    <link>https://plouda.ch/languages/</link>
     <description>Beratung und Coaching</description>
     <generator>Hugo 0.119.0</generator>
-    <language>en</language><atom:link href="/languages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://plouda.ch/languages/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

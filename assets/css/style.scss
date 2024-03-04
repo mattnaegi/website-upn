@@ -786,13 +786,28 @@ figure,
         }
     }
 
-    /*
-    .about-me-img {
-        display: inline-block;
-        vertical-align: middle;
-        margin: auto;
+
+    .img-container {
+        display: grid;
+        align-items: center;
+        grid-template-columns: 0.7fr 0.3fr;
+        max-width: var(--max-content-width);
+        margin: var(--pad-large) auto;
+        
+
+        .about-me-img {
+            display: inline-block;
+            max-width: var(--max-img-width);
+            align-items: right;
+        }
+        
+        .text-side-img {
+            display: inline-block;
+            text-align: left;
+            //vertical-align: top;
+        }
     }
-    */
+    
 
     .caption {
         font-size: calc( 1.2 * var(--font-small));
@@ -819,9 +834,8 @@ img {
     max-height: var(--max-img-height);
     margin-left: auto;
     margin-right: auto;
-    display: inline-block;
+    display: block;
     object-fit: cover;
-
 }
 
 figure {

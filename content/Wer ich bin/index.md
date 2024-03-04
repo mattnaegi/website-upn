@@ -13,22 +13,29 @@ draft: false
 
 <br>
 
-**Inhalt**  
+**Inhalt**
 - [My Story](#my-story)  
-- [Meine Tätigkeiten und Ausbildungen](#meine-ausbildungen)
+- [Meine Tätigkeiten und Ausbildungen](#meine-ausbildungen)  
+
+<div class="img-container">
+
+<div class="text-side-img">  
+
+## My Story
+
+*"Ich weiss aus eigener Erfahrung, dass mein Leben freudvoller und widerstandsloser wird, je besser ich mich selbst kenne und lerne, meine Entscheide auf meine ganz individuelle Art zu fällen. Sowohl privat als auch beruflich bin ich erfolgreicher, wenn ich meine persönlichen Erfolgsschlüssel kenne und anwende. In meinen Erfolgsschlüsseln liegt auch das Wissen über den erfolgreichen Umgang in meinen Beziehungen, sei es in der Familie, im Freundeskreis oder mit meinen Geschäftspartnerinnen und -partnern, meinen Kundinnen und Kunden und meinen Mitarbeitenden."*
+</div>
 
 <div class="about-me-img">
 <img src="images/ueber.png" style="display: inline-block; width:80%; max-width:300px; object-position:left; margin: var(--pad-large) auto;">
-<div>
-<h2> My Story </h2>  
+</div>
 
-<i>"Ich weiss aus eigener Erfahrung, dass mein Leben freudvoller und widerstandsloser wird, je besser ich mich selbst kenne und lerne, meine Entscheide auf meine ganz individuelle Art zu fällen. Sowohl privat als auch beruflich bin ich erfolgreicher, wenn ich meine persönlichen Erfolgsschlüssel kenne und anwende. In meinen Erfolgsschlüsseln liegt auch das Wissen über den erfolgreichen Umgang in meinen Beziehungen, sei es in der Familie, im Freundeskreis oder mit meinen Geschäftspartnerinnen und -partnern, meinen Kundinnen und Kunden und meinen Mitarbeitenden."</i>
+</div>
 
 Mein Herzblut schlägt seit meiner Kindheit für das Erkennen und Begleiten von Menschen. Aufgewachsen zusammen mit drei Geschwistern, liebte ich es bereits damals, herauszufinden, wie unterschiedlich jede*r war und was er/sie brauchte.  
 Als Betriebsökonomin FH in Führungspositionen im Gesundheits- und Sozialwesen lag es mir immer am Herzen zu erkennen, welche Mitarbeitenden sowohl für sich selbst als auch für den Betrieb «am richtigen Platz» waren. Später ging das Managen als Familienfrau mit drei Kindern weiter. Im Anwenden der persönlichen Erfolgsschlüssel bei unseren heranwachsenden Kindern erlebte ich sehr viel Erleichterung in der Erziehungsarbeit. Mehrheitlich in der Schweiz lebend, verhalfen mir zwei Auslandaufenthalte – in den USA und England – zu einer offenen Weltsicht und neuen Sichtweisen, wie man Dinge auch anders als gewohnt anpacken kann.
 Ein Führungs-Coaching im Jahr 2003 – damals bereits auf der Grundlage des Human Design-Wissens – öffnete mir die Augen für mein eigenes Leben. Im Kennenlernen und Anwenden meiner persönlichen Erfolgsschlüssel wurde mein Leben widerstandsloser und freudvoller. Zu wissen, wo und wie ich am besten entscheide, verhalf mir zu besserer Gesundheit und zu mehr Erfolg und Zufriedenheit. 
-</div>
-</div>
+
 
 Seit 2016 bin ich zertifizierte Human Design Persönlichkeits- und Partnerschaftsberaterin mit Zusatzdiplomen in Kinderanalyse, Gesundheit und Psychologie und holistische Beraterin und seit 2021 zertifizierte BG5® Career & Business Consultant. 
 Das Beratungs-Tool aus Human Design System- und BG5® beinhalten aus meiner Sicht vor allem drei grosse «Schätze»: 
@@ -37,6 +44,8 @@ Das Beratungs-Tool aus Human Design System- und BG5® beinhalten aus meiner Sich
 > 3. Die Möglichkeit, jede Person mit individueller und holistischer Sichtweise zu coachen inklusive Einbezug von persönlichen, körperlichen und mentalen Gesundheits-Themen.
 
 ***Als geübte Fragestellerin, aufmerksame Beobachterin und Coach freue ich mich, dein Leben, Arbeiten und Führen zu vereinfachen und verbessern***  
+
+
 
 <br>  
 

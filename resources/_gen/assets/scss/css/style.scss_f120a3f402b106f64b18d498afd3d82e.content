@@ -537,75 +537,91 @@ figure,
   margin: auto;
   overflow: hidden; }
 
-.entry-content {
-  /*
-    .about-me-img {
-        display: inline-block;
-        vertical-align: middle;
-        margin: auto;
-    }
-    */ }
-  .entry-content h2,
-  .entry-content h3,
-  .entry-content h4,
-  .entry-content h5,
-  .entry-content p,
-  .entry-content dl,
-  .entry-content ol,
-  .entry-content ul,
-  .entry-content pre,
-  .entry-content table,
-  .entry-content blockquote,
-  .entry-content details,
-  .entry-content #comment-list {
-    max-width: var(--max-content-width);
-    width: var(--content-width); }
-  .entry-content pre {
-    margin: auto; }
-  .entry-content h2 {
-    font-size: var(--font-large);
-    text-indent: -.15rem;
-    margin: var(--pad-section) auto 0; }
-  .entry-content h3 {
-    font-size: var(--font-medium); }
-  .entry-content h4 {
-    font-size: var(--font-highlight); }
-  .entry-content h3 {
-    margin: calc(4*var(--pad)) auto 0; }
-  .entry-content h4,
-  .entry-content p,
-  .entry-content details,
-  .entry-content table,
-  .entry-content ol,
-  .entry-content ul,
-  .entry-content dl {
-    margin: var(--pad-large) auto; }
-  .entry-content ol,
-  .entry-content ul {
-    line-height: 1.4; }
-  .entry-content li {
-    margin-left: var(--pad-large);
-    margin-bottom: var(--pad); }
-  .entry-content table {
-    border-spacing: 0; }
-    .entry-content table th,
-    .entry-content table td {
-      padding: 8px 5px;
-      text-align: left; }
-    .entry-content table td {
-      border-bottom: 1px solid black; }
-    .entry-content table th {
-      border-bottom: 2px solid black;
-      font-weight: normal; }
-    .entry-content table th:first-child, .entry-content table td:first-child {
-      padding-left: 0; }
-  .entry-content .caption {
-    font-size: calc( 1.2 * var(--font-small));
-    margin-top: var(--pad-small); }
-    .entry-content .caption p {
-      display: inline; }
-    .entry-content .caption li {
-      margin-bottom: 0; }
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content p,
+.entry-content dl,
+.entry-content ol,
+.entry-content ul,
+.entry-content pre,
+.entry-content table,
+.entry-content blockquote,
+.entry-content details,
+.entry-content #comment-list {
+  max-width: var(--max-content-width);
+  width: var(--content-width); }
+
+.entry-content pre {
+  margin: auto; }
+
+.entry-content h2 {
+  font-size: var(--font-large);
+  text-indent: -.15rem;
+  margin: var(--pad-section) auto 0; }
+
+.entry-content h3 {
+  font-size: var(--font-medium); }
+
+.entry-content h4 {
+  font-size: var(--font-highlight); }
+
+.entry-content h3 {
+  margin: calc(4*var(--pad)) auto 0; }
+
+.entry-content h4,
+.entry-content p,
+.entry-content details,
+.entry-content table,
+.entry-content ol,
+.entry-content ul,
+.entry-content dl {
+  margin: var(--pad-large) auto; }
+
+.entry-content ol,
+.entry-content ul {
+  line-height: 1.4; }
+
+.entry-content li {
+  margin-left: var(--pad-large);
+  margin-bottom: var(--pad); }
+
+.entry-content table {
+  border-spacing: 0; }
+  .entry-content table th,
+  .entry-content table td {
+    padding: 8px 5px;
+    text-align: left; }
+  .entry-content table td {
+    border-bottom: 1px solid black; }
+  .entry-content table th {
+    border-bottom: 2px solid black;
+    font-weight: normal; }
+  .entry-content table th:first-child, .entry-content table td:first-child {
+    padding-left: 0; }
+
+.entry-content .img-container {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 0.7fr 0.3fr;
+  max-width: var(--max-content-width);
+  margin: var(--pad-large) auto; }
+  .entry-content .img-container .about-me-img {
+    display: inline-block;
+    max-width: var(--max-img-width);
+    align-items: right; }
+  .entry-content .img-container .text-side-img {
+    display: inline-block;
+    text-align: left; }
+
+.entry-content .caption {
+  font-size: calc( 1.2 * var(--font-small));
+  margin-top: var(--pad-small); }
+  .entry-content .caption p {
+    display: inline; }
+  .entry-content .caption li {
+    margin-bottom: 0; }
 
 /*---------------
 FIGURES AND IMAGES
@@ -619,7 +635,7 @@ img {
   max-height: var(--max-img-height);
   margin-left: auto;
   margin-right: auto;
-  display: inline-block;
+  display: block;
   object-fit: cover; }
 
 figure {

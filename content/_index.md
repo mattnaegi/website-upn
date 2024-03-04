@@ -15,8 +15,7 @@ draft: false
 
 <br>  
 
-<img src="images/portrait.png" style="width:400px; object-position:center">
-
+<img src="images/portrait.png" style="width:400px; object-position:center"></img>
 <!--{{% figure src="portrait.png" width="400px" object-position="center" %}} bild von ursulina. {{% /figure %}} --> 
 
  

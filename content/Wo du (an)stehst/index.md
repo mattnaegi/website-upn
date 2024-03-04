@@ -59,9 +59,9 @@ Erlebst du Konfliktsituationen in Teams und wünschst dir Unterstützung?
 
 ## Wie möchtest du dich nach einem Coaching fühlen?
 
-<img src="/static/icons/" 
+<img src="images/words.png" 
 alt="Klarer in deinen Gedanken und Gefühlen? Gelassener? Zufriedener? Erleichtert? Inspiriert und angeregt? Ermutigt? Dankbar? Neugierig auf mehr? Bestärkt? Sicherer?" 
-style="display: inline-block; width:80%; max-width:300px; object-position:left; margin: var(--pad-large) auto;">
+style="display: inline-block; width:100%; object-position:center; margin: var(--pad-large) auto;">
 
 <!--
 {{% figure src="gefühle.svg" %}} 
